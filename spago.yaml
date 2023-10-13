@@ -9,6 +9,12 @@ package:
   test:
     dependencies: []
     main: Test.Main
+  publish:
+    version: 1.0.2
+    license: MIT
+    location:
+      githubOwner: Ebmtranceboy
+      githubRepo: purescript-dual-numbers
 workspace:
   extra_packages: {}
   package_set:
