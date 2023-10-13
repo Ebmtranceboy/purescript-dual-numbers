@@ -1,0 +1,18 @@
+package:
+  dependencies:
+    - arrays
+    - assert
+    - console
+    - effect
+    - filterable
+    - numbers
+    - prelude
+    - tuples
+  name: dual-numbers
+  test:
+    dependencies: []
+    main: Test.Main
+workspace:
+  extra_packages: {}
+  package_set:
+    registry: 43.0.0
